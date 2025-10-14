@@ -162,3 +162,73 @@ Dockerfile*
 # Documentation build
 docs/_build/
 docs/api/_build/
+
+
+# =============================================================================
+# PROJECT ORGANIZATION UPDATE - October 2025
+# =============================================================================
+
+# Analysis Scripts Output
+scripts/analysis/output/
+scripts/analysis/*.png
+scripts/analysis/*.jpg
+scripts/analysis/*.html
+scripts/analysis/*.pdf
+
+# Validation Scripts Output
+scripts/validation/output/
+scripts/validation/*.png
+scripts/validation/*.jpg
+scripts/validation/*.html
+scripts/validation/*.pdf
+
+# Raw Crop Data (keep structure, ignore large files if needed)
+# data/raw/crops/*.csv (uncomment if files become too large)
+
+# Interim Processing Data (keep for reference)
+# data/interim/crop_processing/*.csv (uncomment if files become too large)
+
+# Analysis Reports (keep all for documentation)
+# All .md files in docs/analysis_reports/ are tracked for documentation
+
+# Temporary files from reorganization
+*_backup_*
+*_moved_*
+reorganization_*.log
+
+# =============================================================================
+
+
+# =============================================================================
+# PROJECT ORGANIZATION UPDATE - October 2025
+# =============================================================================
+
+# Analysis Scripts Output
+scripts/analysis/output/
+scripts/analysis/*.png
+scripts/analysis/*.jpg
+scripts/analysis/*.html
+scripts/analysis/*.pdf
+
+# Validation Scripts Output
+scripts/validation/output/
+scripts/validation/*.png
+scripts/validation/*.jpg
+scripts/validation/*.html
+scripts/validation/*.pdf
+
+# Raw Crop Data (keep structure, ignore large files if needed)
+# data/raw/crops/*.csv (uncomment if files become too large)
+
+# Interim Processing Data (keep for reference)
+# data/interim/crop_processing/*.csv (uncomment if files become too large)
+
+# Analysis Reports (keep all for documentation)
+# All .md files in docs/analysis_reports/ are tracked for documentation
+
+# Temporary files from reorganization
+*_backup_*
+*_moved_*
+reorganization_*.log
+
+# =============================================================================

@@ -1,0 +1,20 @@
+# Additional requirements for PDF extraction
+# Add these to your main requirements.txt or install separately
+
+# PDF processing libraries
+PyPDF2==3.0.1
+pdfplumber==0.9.0
+camelot-py[cv]==0.10.1
+tabula-py==2.5.1
+
+# Supporting libraries
+opencv-python==4.8.1.78  # Required for camelot
+ghostscript==0.7         # Required for camelot
+
+# HTTP requests
+requests==2.31.0
+urllib3==2.0.4
+
+# Data processing (likely already in main requirements)
+pandas>=1.5.0
+numpy>=1.24.0
