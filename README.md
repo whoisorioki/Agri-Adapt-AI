@@ -435,27 +435,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- Kenyan farmers for their valuable insights
-- Climate data providers (CHIRPS, AfSIS, FAOSTAT)
-- Open-source community for tools and libraries
-- Agricultural experts for domain knowledge
-
----
-
-## 📞 Support
-
-- **Documentation**: [API Docs](http://localhost:8000/docs)
-- **Issues**: [GitHub Issues](https://github.com/your-username/agri-adapt-ai/issues)
-- **Email**: support@agri-adapt-ai.com
-
----
-
-**Built with ❤️ for sustainable agriculture in Kenya**
-
----
-
 ## 🔄 Recent Updates
 
 - **v1.2.0**: Added county-specific weather data integration
